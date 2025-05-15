@@ -5,6 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
+  // Descomente a linha abaixo se o projeto usar o diretório "src"
+  // distDir: 'out',
 };
 
 module.exports = nextConfig;
